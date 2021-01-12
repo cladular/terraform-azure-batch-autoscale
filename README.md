@@ -1,1 +1,2 @@
-# terraform-azure-batch-autoscale
+# Easy Terraforming of an Azure Batch Service With an Auto-Scaling Pool
+This repository contains the scripts disscused in the article [Easy Terraforming of an Azure Batch Service With an Auto-Scaling Pool]().
